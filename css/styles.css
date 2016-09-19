@@ -17,6 +17,7 @@ header {
 	font-size: x-small;
 }
 .joke {
+	
 	border: solid 5px #c9c9c9;
 	transition: border 0.3s;
 	margin-top: 10px;
