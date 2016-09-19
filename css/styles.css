@@ -17,7 +17,7 @@ header {
 	font-size: x-small;
 }
 .joke {
-	
+	height:150px;
 	border: solid 5px #c9c9c9;
 	transition: border 0.3s;
 	margin-top: 10px;
@@ -28,8 +28,10 @@ header {
 	-moz-box-shadow: 10px 10px 5px 0px rgba(235,228,235,1);
 	box-shadow: 10px 10px 5px 0px rgba(235,228,235,1);
 	background-color: white;
+	padding: 2% 0 1% 2%;
 }
 .joke img {
+	width:100px;
 	float: left;
 	margin-right: 20px;
 }
